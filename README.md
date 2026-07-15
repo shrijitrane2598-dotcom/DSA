@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
