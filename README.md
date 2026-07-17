@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,8 +32,18 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
