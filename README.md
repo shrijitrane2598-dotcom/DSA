@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
