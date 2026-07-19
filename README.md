@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0009-palindrome-number) |
 ## Sorting
 |  |
 | ------- |
