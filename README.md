@@ -24,6 +24,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
