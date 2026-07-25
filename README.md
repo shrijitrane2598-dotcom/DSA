@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
