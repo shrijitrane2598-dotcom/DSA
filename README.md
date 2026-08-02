@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
