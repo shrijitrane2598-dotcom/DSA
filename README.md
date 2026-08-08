@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
