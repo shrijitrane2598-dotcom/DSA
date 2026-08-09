@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,8 +114,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
