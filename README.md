@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -122,5 +124,10 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
