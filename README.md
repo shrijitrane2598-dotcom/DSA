@@ -26,6 +26,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -94,6 +95,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -109,6 +111,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Trie
 |  |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
