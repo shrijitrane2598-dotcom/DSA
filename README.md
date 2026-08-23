@@ -123,6 +123,7 @@
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
@@ -148,4 +149,9 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
