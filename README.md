@@ -29,6 +29,7 @@
 | [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +156,9 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
