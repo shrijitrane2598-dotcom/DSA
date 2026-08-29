@@ -113,6 +113,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -175,4 +176,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
