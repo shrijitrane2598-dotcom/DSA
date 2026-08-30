@@ -115,6 +115,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
 |  |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
