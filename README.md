@@ -89,6 +89,7 @@
 | [0014-longest-common-prefix](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -118,6 +119,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -188,6 +190,7 @@
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -200,6 +203,7 @@
 | [0100-same-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -222,4 +226,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
