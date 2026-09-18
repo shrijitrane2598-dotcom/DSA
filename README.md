@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0101-symmetric-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
@@ -220,6 +223,7 @@
 | [0101-symmetric-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
@@ -250,4 +254,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
