@@ -23,6 +23,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -271,4 +276,5 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
