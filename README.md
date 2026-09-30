@@ -154,6 +154,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -215,6 +217,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
@@ -245,6 +248,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0257-binary-tree-paths) |
@@ -283,7 +287,12 @@
 | [0098-validate-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shrijitrane2598-dotcom/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
